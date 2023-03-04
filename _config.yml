@@ -1,36 +1,36 @@
-site: JDox
-title: JDox
-greetings: Hi 👋
+site: Fascist-Desantis.com
+title: Ron Deasantis is a Fascist
+greetings: Welcome to Fascist-Desantis.com 👋
 description: >-
-  JDox is Jekyll blog theme powered by Github Pages
+  A blog started in response to Jason Brodeur's (R-Lake Mary) [SB 1316](https://www.flsenate.gov/Session/Bill/2023/1316) bill to force any who blogs about the fascist government of Florida register with the fascist government.
 lang: en
-image: https://res.cloudinary.com/notee/image/upload/v1640411291/notes/imgseo.jpg
-timezone:  Asia/Jakarta
-repo: https://github.com/aliifam/cnote # site repo [optional]
+image: 
+timezone:  New York
+repo: https://github.com/mgitz/fascist-desantis # site repo [optional]
 data-theme: light # default theme "dark" | "light"
-discus-identifier: webthme
-default-thumb: https://res.cloudinary.com/notee/image/upload/v1640412257/notes/default-thumb.webp
+discus-identifier: 
+default-thumb: 
 
 author:
-  name: Aliif Arief
-  url: https://notes.aliif.space/
-  bio: just ordinary boy interest in software development 
-  avatar: https://res.cloudinary.com/notee/image/upload/v1640410819/notes/avatar.jpg
-  username: aliifam # general username
-  github: aliifam # github username
-  twitter: lifrief # twitter username
-  email: me@aliif.space # email adress
+  name: A concerned Floridian
+  url: https://fascist-desantic.com/
+  bio: Just a person wondering why the part of "small government" wants to be big brother and control everything I do... 
+  avatar: https://preview.redd.it/ekyv5cyhsgl61.jpg?width=960&crop=smart&auto=webp&v=enabled&s=ee46b37b3ba0aaf4aa6a6cd7f4f0ba34286459e3
+  username: mgitz # general username
+  github: mgitz # github username
+  twitter: fascist_GovDes # twitter username
+  email: mgitz@fascist-desantis.com # email adress
 
 twitter:
-  username: lifrief
+  username: fascist_GovDes
   card: summary_large_image
 
 # Font Settings
 googlewebfonts: family=Archivo:wght@400;700&family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,300;1,400;1,500;1,600;1,700;1,900
 
 # URL settings
-url: "https://aliifam.github.io" # Domain Name of host. [username].github.io for github pages
-baseurl: "/jdox" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
+url: "https://fascist-desantis.com" # Domain Name of host. [username].github.io for github pages
+baseurl: "" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
 permalink: pretty
 
 # local
