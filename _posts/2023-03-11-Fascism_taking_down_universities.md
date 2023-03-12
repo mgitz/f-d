@@ -12,6 +12,8 @@ thumb: /img/Burning_down_universities.jpg
 
 They really want to burn down the great universities in the state of Florida!
 
+[Image of the Alachua sculpture at the University of Florida with flames. Original image by Gregory Moine: https://www.flickr.com/photos/gregory-moine/4303153330](/img/Burning_down_universities.jpg)
+
 First they would eliminate majors/minors:
 
 > The board shall periodically review the mission of each constituent university and provide updates or revisions to such mission, as appropriate; upon completion of such review, examine existing academic programs at each constituent university for alignment with the university's mission; and provide direction to each constituent university to **remove from its programs any major or minor that is based on or otherwise utilizes pedagogical methodology associated with Critical Theory, including, but not limited to, Critical Race Theory, Critical Race Studies, Critical Ethnic Studies, Radical Feminist Theory, Radical Gender Theory, Queer Theory, Critical Social Justice, or Intersectionality, as defined in Board of Governors regulation, or any major or minor that includes a curriculum that promotes the concepts listed in s. 1000.05(4)(a)**.
