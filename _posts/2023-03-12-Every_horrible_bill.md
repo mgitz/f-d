@@ -5,7 +5,7 @@ description: Thomas Kennedy's summary of fascism in Florida
 author: mgitz
 tags: f_this
 image: /img/showmeyourpapers.png
-thumb: /mg/showmeyourpapers.png
+thumb: /img/showmeyourpapers.png
 ---
 
 Check out this summary by Thomas Kennedy:  ["Every horrible bill proposed by DeSantis's Florida GOP this year"](https://tomaskenn.substack.com/p/every-horrible-bill-proposed-by-desantiss)
