@@ -3,7 +3,7 @@ layout: post
 title: The Fascism of HB 999
 description: Free speech as long as we like the speech
 author: mgitz
-tags: f_this
+tags: f_this, HB999
 image: /img/Burning_down_universities.jpg
 thumb: /img/Burning_down_universities.jpg
 ---
