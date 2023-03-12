@@ -8,7 +8,7 @@ image: /img/Burning_down_universities.jpg
 thumb: /img/Burning_down_universities.jpg
 ---
 
-[HB 999](https://www.myfloridahouse.gov/Sections/Documents/loaddoc.aspx?PublicationType=Committees&CommitteeId=3247&Session=2023&DocumentType=Proposed%20Committee%20Substitutes%20(PCSs)&FileName=PCS%20for%20HB%20999.pdf) is working its way through the heavily Republican controlled Florida legislature. Again, the small government Republicans want to limit speech on college campuses and impose thier wishes.
+[HB 999](https://www.myfloridahouse.gov/Sections/Documents/loaddoc.aspx?PublicationType=Committees&CommitteeId=3247&Session=2023&DocumentType=Proposed%20Committee%20Substitutes%20(PCSs)&FileName=PCS%20for%20HB%20999.pdf) is working its way through the heavily Republican controlled Florida legislature. Again, the small government Republicans want to limit speech on college campuses and impose their wishes.
 
 They really want to burn down the great universities in the state of Florida!
 
