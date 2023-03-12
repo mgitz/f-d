@@ -12,7 +12,7 @@ thumb: /img/Burning_down_universities.jpg
 
 They really want to burn down the great universities in the state of Florida!
 
-[Image of the Alachua sculpture at the University of Florida with flames. Original image by Gregory Moine: https://www.flickr.com/photos/gregory-moine/4303153330](/img/Burning_down_universities.jpg)
+![Image of the Alachua sculpture at the University of Florida with flames. Original image by Gregory Moine: https://www.flickr.com/photos/gregory-moine/4303153330](/img/Burning_down_universities.jpg)
 
 First they would eliminate majors/minors:
 
