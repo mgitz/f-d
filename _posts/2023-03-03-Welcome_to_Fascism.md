@@ -5,7 +5,7 @@ description: Why I started this blog
 author: mgitz
 tags: f_this
 image: /img/Jason_Brodeur.png
-thumb: 
+thumb: /img/Jason_Brodeur.png
 ---
 
 Last night, I was scrolling Twitter and saw that Jason Brodeur (R-Lake Mary) had filed [SB 1316](https://www.flsenate.gov/Session/Bill/2023/1316) which would require bloggers who write about goverment officials to register with the state!
