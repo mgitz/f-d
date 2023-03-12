@@ -1,10 +1,10 @@
 ---
 short_name: admin
 name: admin website
-bio: sebuah admin yang hebat untuk website
+bio: Just a dude who doesn't like Fascists...I think we should all be able to agree on that.
 avatar:  /img/author/default.webp
-username: aliifam # general username
+username: mgitz # general username
 github: aliifam # github username
-twitter: lifrief # twitter username
-email: me@aliif.space # email adress
+twitter: fascist_GovDes # twitter username
+email: admin@fascist-desantis.com # email adress
 ---

@@ -4,7 +4,7 @@ greetings: Welcome to Fascist-DeSantis.com 👋
 description: >-
   A blog started in response to Jason Brodeur's (R-Lake Mary) [SB 1316](https://www.flsenate.gov/Session/Bill/2023/1316) bill to force any who blogs about the fascist government of Florida register with the fascist government.
 lang: en
-image: 
+image: /img/author/fascist-desantis.png
 timezone:  New York
 repo: https://github.com/mgitz/fascist-desantis # site repo [optional]
 data-theme: light # default theme "dark" | "light"
